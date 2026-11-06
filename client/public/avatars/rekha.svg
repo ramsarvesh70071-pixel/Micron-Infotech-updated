@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+    <circle cx="60" cy="60" r="58" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="2"/>
+    <!-- Hair Background -->
+    <path d="M35 44c0 28 6 48 10 56h30c4-8 10-28 10-56 0-18-12-28-25-28s-25 10-25 28z" fill="#2E1065"/>
+    <!-- Body / Blazer -->
+    <path d="M24 110c0-22 15-36 36-36s36 14 36 36" fill="#9333EA"/>
+    <path d="M50 74l10 16 10-16" fill="#FDF4FF"/>
+    <!-- Neck -->
+    <rect x="53" y="62" width="14" height="14" fill="#D99B56"/>
+    <!-- Face -->
+    <ellipse cx="60" cy="48" rx="19" ry="23" fill="#F8CBA6"/>
+    <!-- Front Hair Fringe -->
+    <path d="M41 42c3-14 10-22 19-22s16 8 19 22c-6-4-12-6-19-6s-13 2-19 6z" fill="#3B0764"/>
+    <!-- Eyes -->
+    <circle cx="53" cy="47" r="2.2" fill="#18181B"/>
+    <circle cx="67" cy="47" r="2.2" fill="#18181B"/>
+    <!-- Eyebrows -->
+    <path d="M49 42c2-1 6-1 7 0" stroke="#3B0764" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M64 42c1-1 5-1 7 0" stroke="#3B0764" stroke-width="1.6" stroke-linecap="round"/>
+    <!-- Smile -->
+    <path d="M54 58c3 3 9 3 12 0" stroke="#BE185D" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </svg>

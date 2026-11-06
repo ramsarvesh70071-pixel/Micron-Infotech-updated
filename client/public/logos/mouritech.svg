@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 30" fill="none">
+  <circle cx="12" cy="15" r="9" fill="#0284C7"/>
+  <path d="M7 15l4 4 6-8" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="26" y="21" font-family="Arial, sans-serif" font-weight="900" font-size="15" fill="#0369A1">MOURI Tech</text>
+</svg>

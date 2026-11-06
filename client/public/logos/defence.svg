@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 32" fill="none">
+  <circle cx="16" cy="16" r="14" fill="#0B3C5D"/>
+  <circle cx="16" cy="16" r="11" stroke="#FFD700" stroke-width="1.5" fill="none"/>
+  <circle cx="16" cy="16" r="3.5" fill="#FFD700"/>
+  <text x="36" y="14" font-family="Arial, sans-serif" font-weight="bold" font-size="9.5" fill="#0B3C5D" letter-spacing="0.5">MINISTRY OF</text>
+  <text x="36" y="27" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#B91C1C" letter-spacing="0.5">DEFENCE (MoD)</text>
+</svg>

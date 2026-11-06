@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="mitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1428A0" />
+      <stop offset="50%" stop-color="#2E2EF2" />
+      <stop offset="100%" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+  </defs>
+  <!-- Background Badge -->
+  <rect x="4" y="4" width="112" height="112" rx="28" fill="url(#mitGrad)"/>
+  <rect x="5" y="5" width="110" height="110" rx="27" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  
+  <!-- "M" -->
+  <path d="M22 82V38h11l11 22 11-22h11v44H56V54L45 74h-2L32 54v28H22z" fill="#FFFFFF"/>
+  <!-- "i" dot with vibrant accent -->
+  <circle cx="73" cy="42" r="5" fill="url(#accentGrad)" />
+  <!-- "i" stem -->
+  <rect x="69" y="52" width="8" height="30" rx="3" fill="#FFFFFF"/>
+  <!-- "T" -->
+  <path d="M81 46h24v8h-8v28h-8V54h-8v-8z" fill="#FFFFFF"/>
+</svg>

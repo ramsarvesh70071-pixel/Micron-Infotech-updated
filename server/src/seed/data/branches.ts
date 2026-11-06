@@ -1,0 +1,102 @@
+// Generated from the original static site content. Edit via the Admin Panel after seeding.
+const data: any[] = [
+  {
+    "slug": "gorakhpur",
+    "name": "MicronInfoTech - Gorakhpur Learning Center",
+    "city": "Gorakhpur",
+    "address": "Buxipur Rd, Avas Vikas Colony, Miyan Baza",
+    "landmark": "Miyan Baza, Near Avas Vikas Colony, Gorakhpur, UP 273001",
+    "phone": "+91 7676765421 / +91 9876543210",
+    "email": "info@microninfotech.com",
+    "timings": "Mon - Sat: 8:00 AM - 8:30 PM | Sun: 9:00 AM - 6:00 PM",
+    "mapQuery": "Buxipur Rd, Avas Vikas Colony, Miyan Baza, Gorakhpur, Uttar Pradesh 273001",
+    "isHeadquarter": true,
+    "active": true,
+    "order": 1
+  },
+  {
+    "slug": "btm-layout",
+    "name": "MicronInfoTech - BTM Layout Center",
+    "city": "Bangalore",
+    "address": "1st Floor, #23 Siva Arcade, 29th Main Road, BTM Layout 1st Stage",
+    "landmark": "Above Bank of Baroda, Backside of Vishnu Park Restaurant",
+    "phone": "080-42108236 / +91 7676765421",
+    "email": "btm@microninfotech.com",
+    "timings": "Mon - Sat: 8:00 AM - 8:30 PM | Sun: 9:00 AM - 6:00 PM",
+    "mapQuery": "MicronInfoTech BTM Layout Bangalore",
+    "isHeadquarter": false,
+    "active": true,
+    "order": 2
+  },
+  {
+    "slug": "marathahalli",
+    "name": "MicronInfoTech - Marathahalli Center",
+    "city": "Bangalore",
+    "address": "No. 45, 3rd Floor, Marathahalli, From Marathahalli Bridge towards Old Airport Road",
+    "landmark": "Next to Axis Bank, Above Federal Bank, Near Brand Factory",
+    "phone": "080-42024661 / +91 7676765421",
+    "email": "marathahalli@microninfotech.com",
+    "timings": "Mon - Sat: 8:00 AM - 8:30 PM | Sun: 9:00 AM - 6:00 PM",
+    "mapQuery": "MicronInfoTech Marathahalli Bangalore",
+    "isHeadquarter": false,
+    "active": true,
+    "order": 3
+  },
+  {
+    "slug": "jayanagar",
+    "name": "MicronInfoTech - Jayanagar Office",
+    "city": "Bangalore",
+    "address": "No. 16, 2nd Floor, 11th Main Road, 33rd Cross Rd, Jayanagar 4th 'T' Block",
+    "landmark": "Above Sun Times, Near KFC & Cool Joint",
+    "phone": "080-41502315 / +91 7676765421",
+    "email": "jayanagar@microninfotech.com",
+    "timings": "Mon - Sat: 8:30 AM - 8:00 PM | Sun: 9:00 AM - 5:30 PM",
+    "mapQuery": "MicronInfoTech Jayanagar Bangalore",
+    "isHeadquarter": false,
+    "active": true,
+    "order": 4
+  },
+  {
+    "slug": "rajajinagar",
+    "name": "MicronInfoTech - Rajajinagar Center",
+    "city": "Bangalore",
+    "address": "No. 18, 2nd Floor, Mahakavi Kuvempu Rd, near Navrang Theatre Road, MKK Road, 1st Block",
+    "landmark": "Opposite to Nethradhama Super Speciality Hospital",
+    "phone": "080-41713260 / +91 7676765421",
+    "email": "rajajinagar@microninfotech.com",
+    "timings": "Mon - Sat: 8:00 AM - 8:30 PM | Sun: 9:00 AM - 6:00 PM",
+    "mapQuery": "MicronInfoTech Rajajinagar Bangalore",
+    "isHeadquarter": false,
+    "active": true,
+    "order": 5
+  },
+  {
+    "slug": "kalyan-nagar",
+    "name": "MicronInfoTech - Kalyan Nagar Center",
+    "city": "Bangalore",
+    "address": "No. 509, 4th Main, Kammanahalli Main Rd, HRBR Layout 3rd Block",
+    "landmark": "Near McDonald's, Opposite to HP Petrol Bunk and Aptech",
+    "phone": "080-42171120 / +91 7676765421",
+    "email": "kalyannagar@microninfotech.com",
+    "timings": "Mon - Sat: 8:30 AM - 8:00 PM | Sun: 9:00 AM - 5:30 PM",
+    "mapQuery": "MicronInfoTech Kalyan Nagar Bangalore",
+    "isHeadquarter": false,
+    "active": true,
+    "order": 6
+  },
+  {
+    "slug": "chennai-velachery",
+    "name": "MicronInfoTech - Chennai (Velachery & OMR)",
+    "city": "Chennai",
+    "address": "No 2, 11th Main Road, G1 Es El En Manasarover, Vijaya Nagar, Velachery Main Road",
+    "landmark": "Opposite to Grand Square Mall, Near The Chennai Silks, Next to Venkateswara Supermarket",
+    "phone": "044-42104523 / +91 7676765421",
+    "email": "chennai@microninfotech.com",
+    "timings": "Mon - Sat: 8:00 AM - 8:30 PM | Sun: 9:00 AM - 6:00 PM",
+    "mapQuery": "MicronInfoTech Velachery Chennai",
+    "isHeadquarter": false,
+    "active": true,
+    "order": 7
+  }
+];
+export default data;

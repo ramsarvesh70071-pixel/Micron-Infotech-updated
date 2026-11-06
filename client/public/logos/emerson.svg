@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125 30" fill="none">
+  <circle cx="12" cy="15" r="9" stroke="#004B87" stroke-width="3" fill="none"/>
+  <circle cx="12" cy="15" r="4" fill="#004B87"/>
+  <text x="28" y="21" font-family="Arial, sans-serif" font-weight="900" font-size="16" fill="#004B87" letter-spacing="1">EMERSON</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "micron-infotech",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Micron InfoTech - React website + Express/MongoDB API + Admin Panel",
+  "engines": { "node": ">=18.18" },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "dev": "node scripts/dev.mjs",
+    "seed": "npm --prefix server run seed",
+    "seed:reset": "npm --prefix server run seed -- --reset",
+    "build": "npm --prefix server run build && npm --prefix client run build",
+    "start": "npm --prefix server run start",
+    "test": "npm --prefix server run test",
+    "typecheck": "npm --prefix server run typecheck && npm --prefix client run typecheck"
+  }
+}

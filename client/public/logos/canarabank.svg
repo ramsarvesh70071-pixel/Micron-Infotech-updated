@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 32" fill="none">
+  <polygon points="3,26 15,6 27,26" fill="#0080FF"/>
+  <polygon points="11,26 23,6 35,26" fill="#FFCC00" fill-opacity="0.95"/>
+  <text x="42" y="15" font-family="Arial, sans-serif" font-weight="bold" font-size="11" fill="#00529B">केनेरा बैंक</text>
+  <text x="42" y="27" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#00529B">Canara Bank</text>
+</svg>

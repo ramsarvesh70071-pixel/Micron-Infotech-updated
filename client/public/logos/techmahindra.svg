@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 30" fill="none">
+    <text x="0" y="14" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#E31837">Tech</text>
+    <text x="32" y="14" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#000000">Mahindra</text>
+    <path d="M0 19h100" stroke="#E31837" stroke-width="1.5"/>
+  </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+    <circle cx="60" cy="60" r="58" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="2"/>
+    <!-- Body / Dark Shirt -->
+    <path d="M22 110c0-22 16-36 38-36s38 14 38 36" fill="#334155"/>
+    <path d="M54 74l6 20 6-20" fill="#64748B"/>
+    <!-- Neck -->
+    <rect x="52" y="62" width="16" height="16" fill="#CD8848"/>
+    <!-- Face -->
+    <ellipse cx="60" cy="48" rx="20" ry="24" fill="#E8A86B"/>
+    <!-- Hair - short spiked/fade -->
+    <path d="M38 38c2-16 10-24 22-24s20 8 22 24c-6-4-14-6-22-6s-16 2-22 6z" fill="#09090B"/>
+    <!-- Spectacles -->
+    <rect x="46" y="43" width="12" height="9" rx="2" stroke="#1E293B" stroke-width="1.8" fill="rgba(255,255,255,0.4)"/>
+    <rect x="62" y="43" width="12" height="9" rx="2" stroke="#1E293B" stroke-width="1.8" fill="rgba(255,255,255,0.4)"/>
+    <line x1="58" y1="47" x2="62" y2="47" stroke="#1E293B" stroke-width="1.8"/>
+    <!-- Eyes behind spectacles -->
+    <circle cx="52" cy="47" r="1.8" fill="#0F172A"/>
+    <circle cx="68" cy="47" r="1.8" fill="#0F172A"/>
+    <!-- Smile -->
+    <path d="M55 58c3 2 7 2 10 0" stroke="#78350F" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </svg>

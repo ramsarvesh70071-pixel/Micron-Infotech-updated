@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+    <circle cx="60" cy="60" r="58" fill="#E2E8F0" stroke="#CBD5E1" stroke-width="2"/>
+    <!-- Body / Shirt -->
+    <path d="M22 110c0-22 16-36 38-36s38 14 38 36" fill="#1E3A8A"/>
+    <path d="M48 74l12 16 12-16" fill="#F8FAFC"/>
+    <path d="M42 74l18 10 18-10" stroke="#3B82F6" stroke-width="2" fill="none"/>
+    <!-- Neck -->
+    <rect x="52" y="62" width="16" height="16" fill="#E0A96D"/>
+    <!-- Head / Face -->
+    <ellipse cx="60" cy="48" rx="20" ry="24" fill="#F2C18D"/>
+    <!-- Hair -->
+    <path d="M40 40c0-14 9-22 20-22s20 8 20 22c-5-6-13-8-20-8s-15 2-20 8z" fill="#1E293B"/>
+    <!-- Ears -->
+    <circle cx="39" cy="48" r="4.5" fill="#E0A96D"/>
+    <circle cx="81" cy="48" r="4.5" fill="#E0A96D"/>
+    <!-- Eyes -->
+    <circle cx="53" cy="46" r="2.2" fill="#0F172A"/>
+    <circle cx="67" cy="46" r="2.2" fill="#0F172A"/>
+    <!-- Eyebrows -->
+    <path d="M49 41c2-1 6-1 7 0" stroke="#1E293B" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M64 41c1-1 5-1 7 0" stroke="#1E293B" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- Nose -->
+    <path d="M60 48v5h2" stroke="#D97706" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- Smile -->
+    <path d="M54 57c3 3 9 3 12 0" stroke="#9A3412" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  </svg>
